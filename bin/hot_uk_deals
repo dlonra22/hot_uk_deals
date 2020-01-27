@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "hot_uk_deals"
+
+hud = HotUkDeals::CLI.new.call
